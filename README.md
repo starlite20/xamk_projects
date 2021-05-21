@@ -7,7 +7,7 @@ I This GitHub Repository will show you the Assignments I recreated and submitted
 
 ## Technologies
 The Projects were created using:
-* Unity 2020.3.4f1
+* Unity 2020.3.4f1 (for Module 1, 2 and 3)
 * Blender 2.93
 * Krita
 * Visual Studio 2019
