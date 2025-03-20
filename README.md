@@ -14,6 +14,6 @@ The Projects were created using:
 * Visual Studio 2019
 
 ## Setup
-To play the games built, go into the Build folder of the each specific module and run the executable file with the name of the folder.
+To play the games built, go into the Build folder of each specific module and run the executable file with the folder's name.
 OR
-Open Executables folder, and run the open the executable file under each module.
+Open the Executables folder, and run the open the executable file under each module.
